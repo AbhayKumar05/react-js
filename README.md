@@ -1,7 +1,10 @@
-# Getting Started with Create React App
 
-<<<<<<< HEAD
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+React JS Full Course
+
+Yt: https://www.youtube.com/watch?v=b9eMGE7QtTk&t=535s 
+
+
+Movie app code: https://gist.github.com/adrianhajdin/997a8cdf94234e889fa47be89a4759f1
 
 ## Available Scripts
 
@@ -55,12 +58,3 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
-
-React JS Full Course
-
-Yt: https://www.youtube.com/watch?v=b9eMGE7QtTk&t=535s 
-
-
-Movie app code: https://gist.github.com/adrianhajdin/997a8cdf94234e889fa47be89a4759f1
- 
->>>>>>> origin/main
