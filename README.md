@@ -1,6 +1,6 @@
 # 🎬 Movie App - React
 
-Welcome to the Movie App! This is a fun project built with React to fetch and display movie data from the OMDB API. Dive in to explore some of your favorite movies!
+This is a fun project built with React to fetch and display movie data from the OMDB API.
 
 ## 🔗 Links
 
@@ -34,11 +34,11 @@ This command will copy all the configuration files and dependencies right into y
 
 ## 📱 Make it a Progressive Web App
 
-Want to make this a Progressive Web App? Check out the guide [here](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app).
+Want to make this a Progressive Web App? Check out the guide [here](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app) - still working on it. 
 
 ## ⚙️ Advanced Configuration
 
-If you need more control over the configuration, take a look [here](https://facebook.github.io/create-react-app/docs/advanced-configuration).
+If you need more control over the configuration, take a look [here](https://facebook.github.io/create-react-app/docs/advanced-configuration) - still working on it. 
 
 ## 🚢 Deployment
 
