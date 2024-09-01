@@ -44,6 +44,10 @@ If you need more control over the configuration, take a look [here](https://face
 
 Ready to deploy your app? Follow the instructions [here](https://facebook.github.io/create-react-app/docs/deployment) to get it live.
 
+## LinkedIn 
+
+https://www.linkedin.com/in/abhay-kumar-13831b248/
+
 ## 🛠 Troubleshooting
 
 Running into issues? This section on [troubleshooting build failures](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify) might help.
