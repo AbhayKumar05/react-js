@@ -26,18 +26,9 @@ For more details, check out [running tests](https://facebook.github.io/create-re
 Bundles the app for production in the `build` folder.\
 It optimizes the build for the best performance. Your app is ready to go live!
 
-### `npm run eject`
-
-**Warning: Once you eject, you can't go back!**\
-This command will copy all the configuration files and dependencies right into your project, giving you full control. Use it only if you need to customize the build tool and configuration.
-
 ## Make it a Progressive Web App
 
 Want to make this a Progressive Web App? Check out the guide [here](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app) - still working on it. 
-
-## Advanced Configuration
-
-If you need more control over the configuration, take a look [here](https://facebook.github.io/create-react-app/docs/advanced-configuration) - still working on it. 
 
 ## LinkedIn 
 
