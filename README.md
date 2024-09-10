@@ -5,7 +5,6 @@ This is a fun project built with React to fetch and display movie data from the 
 ## 🔗 Links
 
 - Check out the [YouTube Tutorial](https://www.youtube.com/watch?v=b9eMGE7QtTk&t=535s) I followed to build this app.
-- Here's the [Movie App Code Gist](https://gist.github.com/adrianhajdin/997a8cdf94234e889fa47be89a4759f1) for reference.
 
 ## 🚀 Getting Started
 
